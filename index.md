@@ -18,8 +18,7 @@ var myVar = "Hello, world!";
 - [x] This item is complete
 - [ ] This item is not complete
 ... 
-   
-python
+   python
 a=10
 print(a)
 ...
